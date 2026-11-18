@@ -1,0 +1,7 @@
+node_modules/
+dist.nosync/
+.astro/
+.DS_Store
+.env
+.wrangler/
+.editor-trash/
